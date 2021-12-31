@@ -1,7 +1,3 @@
-<div>
-  <img align="right" alt="Gus-gif" height="120" width="150" src="https://tenor.com/view/maps-coordinates-shane-madej-funny-gif-14801560">
-</div>
-
 ### Olá, eu sou o Hildeberto Macêdo 👋
 
 * Tecnólogo de Petróleo e Gás (UEA)

@@ -7,10 +7,12 @@
 * Pós Graduando em Georreferenciamento de Imóveis Rurais (FARO)
 * Pós Graduando MBA em Geotecnologias (IPOG)
 
-<div align="center">
+___
+
+<div align="left">
   <a href="https://github.com/hidebertomacedo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hildebertomacedo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hildebertomacedo&layout=compact&langs_count=7&theme=dark"/>
+  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=hildebertomacedo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hildebertomacedo&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 <div style="display: inline_block"><br>
@@ -19,7 +21,7 @@
  <img align="center" alt="Hildeberto-MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
 </div>
   
-##
+___
   
 <div> 
    <a href="https://instagram.com/hildeberto.macedo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>

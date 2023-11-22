@@ -1,7 +1,7 @@
 ### Olá, eu sou o Hildeberto Macêdo 👋
 
 * Tecnólogo de Petróleo e Gás (UEA)
-* Cursando Engenharia Ambiental (UFAM)
+* Engenheiro Ambiental (UFAM)
 * Esp. em Auditoria, Perícia e Gestão Ambiental (FARO)
 * Esp. em Geoprocessamento Aplicado (IFNMG)
 * Pós Graduando em Georreferenciamento de Imóveis Rurais (FARO)

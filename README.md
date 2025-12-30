@@ -1,16 +1,23 @@
 <div align="center">
-<a href="https://git.io/typing-svg">
-<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DFira%2BCode%26weight%3D600%26size%3D24%26pause%3D1000%26color%3D2E9C34%26center%3Dtrue%26vCenter%3Dtrue%26width%3D500%26lines%3DHildeberto%2BMac%25C3%25AAdo%3BGeospatial%2BData%2BScientist%3BRemote%2BSensing%2BSpecialist%3BEnvironmental%2BAnalyst%2B%2540%2BEPAGRI" alt="Typing SVG" />
+<h2>Hildeberto Macêdo</h2>
+<h3>Cientista de Dados Geoespaciais | Analista Ambiental na EPAGRI</h3>
+<p>Florianópolis, Santa Catarina, Brasil</p>
+
+<a href="https://www.google.com/search?q=https://www.linkedin.com/in/hildebertomacedo/">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn Badge">
+</a>
+<a href="mailto:hildeberto.filho@hotmail.com">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-0078D4%3Fstyle%3Dfor-the-badge%26logo%3Dmicrosoft-outlook%26logoColor%3Dwhite" alt="Outlook Badge">
+</a>
+<a href="http://lattes.cnpq.br/9074110018456619">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Lattes-CV-blue%3Fstyle%3Dfor-the-badge%26logo%3Dresearchgate%26logoColor%3Dwhite" alt="Lattes Badge">
+</a>
+<a href="https://www.google.com/search?q=https://hildebertomacedo.medium.com/">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Medium-12100E%3Fstyle%3Dfor-the-badge%26logo%3Dmedium%26logoColor%3Dwhite" alt="Medium Badge">
 </a>
 </div>
 
-<div align="center">
-<b>Transformando terabytes de dados espaciais em inteligência territorial e soluções climáticas.</b>
-</div>
-
-<br />
-
-Perfil Profissional
+🗺️ Sobre Mim
 
 Minha trajetória combina capacidade técnica e gestão de pessoas: fui Coordenador de Estágio e de Geotecnologias e Inovação no LIOP (UFAM), onde liderei equipes e orientei desenvolvimento técnico como o Dashboard Ictiológico, o qual é possível visualizar os dados da pesca no sudoeste da Amazônia, antes visualizados apenas em planilhas, além de construir um painel de indicadores dos estagiários.
 
@@ -18,94 +25,53 @@ Atualmente, como Analista Ambiental na EPAGRI, participo de projetos inovadores 
 
 Atuo também com Integração de dados de IoT (Estações Climáticas) para agricultura de precisão. Possuo experiência em estruturação de bancos de dados espaciais (PostgreSQL/PostGIS) e processamento em nuvem (GCP/AWS) para análise de grandes volumes de dados. Além da modelagem preditiva, atuo na visualização de dados estratégicos (Power BI/Looker).
 
-Projetos e Pesquisa
+💻 Stack Tecnológico
 
-Projeto
+<div align="left">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dflat-square%26logo%3Dpython%26logoColor%3Dwhite" alt="Python" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Pandas-150458%3Fstyle%3Dflat-square%26logo%3Dpandas%26logoColor%3Dwhite" alt="Pandas" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/TensorFlow-FF6F00%3Fstyle%3Dflat-square%26logo%3Dtensorflow%26logoColor%3Dwhite" alt="TensorFlow" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/R_Language-276DC3%3Fstyle%3Dflat-square%26logo%3Dr%26logoColor%3Dwhite" alt="R" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/QGIS-589632%3Fstyle%3Dflat-square%26logo%3Dqgis%26logoColor%3Dwhite" alt="QGIS" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/ArcGIS-005E95%3Fstyle%3Dflat-square%26logo%3Darcgis%26logoColor%3Dwhite" alt="ArcGIS" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Google_Earth_Engine-4285F4%3Fstyle%3Dflat-square%26logo%3Dgoogle-earth%26logoColor%3Dwhite" alt="GEE" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/PostgreSQL-316192%3Fstyle%3Dflat-square%26logo%3Dpostgresql%26logoColor%3Dwhite" alt="PostgreSQL" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Google_Cloud-4285F4%3Fstyle%3Dflat-square%26logo%3Dgoogle-cloud%26logoColor%3Dwhite" alt="GCP" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/AWS-232F3E%3Fstyle%3Dflat-square%26logo%3Damazon-aws%26logoColor%3Dwhite" alt="AWS" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Power_BI-F2C811%3Fstyle%3Dflat-square%26logo%3Dpowerbi%26logoColor%3Dblack" alt="Power BI" />
+</div>
 
-Impacto e Stack Tecnológico
+🚀 Projetos de Impacto
 
 Modelagem Preditiva de Solos (EPAGRI)
 
-Desenvolvimento de modelos para estimativa de umidade do solo utilizando correlações entre bandas térmicas e multiespectrais capturadas por drones de alta precisão. 
+Resumo: Algoritmos para estimativa de umidade do solo via correlações térmicas e multiespectrais com drones.
 
-
-
- Stack: Python, Rasterio, Scikit-learn, DroneDeploy.
+Tech: Python, Rasterio, Scikit-learn, DroneDeploy.
 
 Dashboard Ictiológico do Rio Madeira
 
-Criação de pipelines de ETL e painéis de BI para monitoramento pesqueiro no Sudoeste da Amazônia, transformando dados tabulares dispersos em visualizações dinâmicas para tomada de decisão. 
+Resumo: Pipeline ETL e Business Intelligence para monitoramento pesqueiro na Amazônia.
 
-
-
- Stack: Power BI, SQL, Python.
+Tech: Power BI, SQL, Python.
 
 Análise de Focos de Calor na Amazônia
 
-Estudo espaço-temporal de cicatrizes de fogo e desflorestamento, utilizando processamento em nuvem para lidar com grandes volumes de dados orbitais. 
+Resumo: Processamento de Big Data orbital para análise espaço-temporal de desflorestamento.
 
+Tech: Google Earth Engine, JavaScript, QGIS.
 
+📚 Publicações Recentes
 
- Stack: Google Earth Engine (GEE), JavaScript, QGIS.
+Macêdo Filho, H. F., et al. "Analysis of Spectral Reflectance Derived from UAV-Embedded Multispectral and Thermal Sensors". LAGIRS, 2025.
 
-Competências Técnicas
+Macêdo Filho, H. F., Batista, E. C. "Análise Espacial de Focos de Calor em Unidades de Conservação". SBSR, 2025.
 
-<div align="center">
+Lima, M. A., Macêdo Filho, H. F., et al. "The ichthyofauna of streams from the Purus-Madeira interfluve". Biota Neotropica, 2024.
 
-Ciência de Dados
-
-Inteligência Geoespacial
-
-Nuvem e Banco de Dados
-
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python"/> <img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas"/> <img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow"/> <img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="R"/>
-
-<img src="https://www.google.com/search?q=https://upload.wikimedia.org/wikipedia/commons/9/91/QGIS_logo_new.svg" height="40" alt="qgis"/> <img src="https://www.google.com/search?q=https://upload.wikimedia.org/wikipedia/commons/3/34/ArcGIS_logo.png" height="40" alt="arcgis"/> <img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="gee"/>
-
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql"/> <img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="sqlserver"/> <img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="gcp"/>
-
-Scikit-learn, NumPy, Jupyter
-
-QGIS, ArcGIS Pro, DroneDeploy
-
-PostGIS, AWS, BigQuery
-
-</div>
-
-Publicações Selecionadas
-
-2025: "Analysis of Spectral Reflectance Derived from UAV-Embedded Multispectral and Thermal Sensors as a Function of Soil Moisture Gradient" (LAGIRS).
-
-2025: "Análise Espacial de Focos de Calor em Unidades de Conservação no Interflúvio Purus-Madeira" (SBSR).
-
-2024: "The ichthyofauna of streams from the Purus-Madeira interfluve" (Biota Neotropica).
-
-Formação Acadêmica
-
-Mestrado em Ciências Ambientais | UFAM (Em andamento)
-
-MBA em Geotecnologias | IPOG
-
-Engenharia Ambiental | UFAM
-
-Especializações: Geoprocessamento Aplicado (IFNMG) & Georreferenciamento (FARO)
+📊 Estatísticas GitHub
 
 <div align="center">
-<img height="160em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dhidebertomacedo%26show_icons%3Dtrue%26theme%3Ddark%26include_all_commits%3Dtrue%26count_private%3Dtrue%26hide_border%3Dtrue"/>
-<img height="160em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dhidebertomacedo%26layout%3Dcompact%26langs_count%3D7%26theme%3Ddark%26hide_border%3Dtrue"/>
-</div>
-
-<div align="center">
-<a href="https://www.google.com/search?q=https://www.linkedin.com/in/hildebertomacedo/" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dflat%26logo%3Dlinkedin%26logoColor%3Dwhite" target="_blank">
-</a>
-<a href="mailto:hildeberto.filho@hotmail.com">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-0078D4%3Fstyle%3Dflat%26logo%3Dmicrosoft-outlook%26logoColor%3Dwhite" target="_blank">
-</a>
-<a href="https://www.google.com/search?q=https://hildebertomacedo.medium.com/" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Medium-12100E%3Fstyle%3Dflat%26logo%3Dmedium%26logoColor%3Dwhite" target="_blank">
-</a>
-<a href="http://lattes.cnpq.br/9074110018456619" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Lattes-Curriculum-blue%3Fstyle%3Dflat%26logo%3Dresearchgate%26logoColor%3Dwhite" target="_blank">
-</a>
+<img height="150em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dhidebertomacedo%26show_icons%3Dtrue%26theme%3Ddefault%26include_all_commits%3Dtrue%26count_private%3Dtrue%26hide_border%3Dtrue" alt="Stats"/>
+<img height="150em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dhidebertomacedo%26layout%3Dcompact%26langs_count%3D7%26theme%3Ddefault%26hide_border%3Dtrue" alt="Languages"/>
 </div>

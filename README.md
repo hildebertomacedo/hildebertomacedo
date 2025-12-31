@@ -36,4 +36,4 @@
 
 ### 📫 Contato
 
-[LinkedIn]([SEU_LINK_DO_LINKEDIN](https://www.linkedin.com/in/hildebertomacedo/)) • [Portfólio - SpatialNode](spatialnode.net/hildeberto) • [Email](mailto:eng.hildeberto@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/hildebertomacedo/) • [Portfólio - SpatialNode](SEU_LINK_DO_PORTFOLIO) • [Email](mailto:eng.hildeberto@gmail.com)

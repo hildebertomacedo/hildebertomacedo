@@ -2,7 +2,7 @@
 
 > **Cientista de Dados com foco em Inteligência Geoespacial e Modelagem Preditiva.**
 >
-> Combino expertise técnica no processamento de imagens e dados não estruturados (Deep Learning) com sólida arquitetura de dados espaciais. Minha atuação abrange o ciclo completo de dados: da ingestão via IoT e sensores remotos (LiDAR/VANTs), passando pelo processamento em nuvem (GCP/AWS), até a entrega de dashboards executivos para tomada de decisão estratégica.
+> Atuo no processamento de imagens e dados não estruturados de dados geoespaciais, abrangendo o ciclo completo de dados: da captura de dados via IoT e sensores remotos (LiDAR/VANTs/Satélites), processamento em nuvem (GCP/AWS) ou local, até a entrega de dashboards executivos para tomada de decisão estratégica.
 
 ---
 

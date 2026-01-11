@@ -15,7 +15,7 @@
 `Scikit-learn` `TensorFlow/Keras` `Deep Learning` `Computer Vision` `Predictive Modeling`
 
 **Geospatial & Big Data:**
-`PostgreSQL/PostGIS` `ArcGIS/QGIS` `Google Earth Engine` `Remote Sensing (LiDAR, Multispectral)`
+`PostgreSQL/PostGIS` `ArcGIS/QGIS` `Google Earth Engine` `Agisoft Metashape` `Remote Sensing (LiDAR, Multispectral)`
 
 **Cloud & DevOps:**
 `AWS` `Google Cloud Platform (GCP)` `Git` `IoT Integration`

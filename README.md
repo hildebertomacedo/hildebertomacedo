@@ -1,4 +1,4 @@
-# Data Scientist | Geospatial Intelligence & Machine Learning
+# Data Scientist | Geospatial Intelligence & Machine Learning 
 
 > **Cientista de Dados com foco em Inteligência Geoespacial e Modelagem Preditiva.**
 >

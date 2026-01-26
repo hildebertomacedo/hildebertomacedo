@@ -8,19 +8,63 @@
 
 ### 🛠 Tech Stack & Tools
 
-**Languages & Core:**
+**Languages & Core**
+<br>
+<div style="display: inline_block">
+  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg">
+</div>
+
 `Python` `SQL` `R`
 
-**Data Science & Machine Learning:**
+<br>
+
+**Data Science & Machine Learning**
+<br>
+<div style="display: inline_block">
+  <img align="center" alt="Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
+  <img align="center" alt="Scikit-learn" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg">
+  <img align="center" alt="TensorFlow" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg">
+  <img align="center" alt="Keras" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg">
+  <img align="center" alt="OpenCV" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg">
+  <img align="center" alt="Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
+</div>
+
 `Scikit-learn` `TensorFlow/Keras` `Deep Learning` `Computer Vision` `Predictive Modeling`
 
-**Geospatial & Big Data:**
+<br>
+
+**Geospatial & Big Data**
+<br>
+<div style="display: inline_block">
+  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="QGIS" height="30" width="40" src="https://cdn.simpleicons.org/qgis/589632">
+</div>
+
 `PostgreSQL/PostGIS` `ArcGIS/QGIS` `Google Earth Engine` `Agisoft Metashape` `Remote Sensing (LiDAR, Multispectral)`
 
-**Cloud & DevOps:**
+<br>
+
+**Cloud & DevOps**
+<br>
+<div style="display: inline_block">
+  <img align="center" alt="AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+  <img align="center" alt="Google Cloud" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg">
+  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+</div>
+
 `AWS` `Google Cloud Platform (GCP)` `Git` `IoT Integration`
 
-**Business Intelligence:**
+<br>
+
+**Business Intelligence**
+<br>
+<div style="display: inline_block">
+  <img align="center" alt="Power BI" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg">
+  <img align="center" alt="Looker" height="30" width="40" src="https://cdn.simpleicons.org/looker/4285F4">
+</div>
+
 `Power BI` `Looker Studio` `Data Storytelling`
 
 ---
@@ -37,31 +81,3 @@
 ### 📫 Contato
 
 [LinkedIn](https://www.linkedin.com/in/hildebertomacedo/) • [SpatialNode](https://spatialnode.net/hildeberto) • [Email](mailto:eng.hildeberto@gmail.com)
-
----
-
-### 🤖 Linguagens e Tecnologias
-
-<div style="display: inline_block">
-  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg">
-  
-  <img align="center" alt="Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
-  <img align="center" alt="Scikit-learn" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg">
-  <img align="center" alt="TensorFlow" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg">
-  <img align="center" alt="Keras" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg">
-  <img align="center" alt="OpenCV" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg">
-  <img align="center" alt="Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
-  
-  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="QGIS" height="30" width="40" src="https://cdn.simpleicons.org/qgis/589632">
-  
-  <img align="center" alt="AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
-  <img align="center" alt="Google Cloud" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg">
-  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-
-  <img align="center" alt="Power BI" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg">
-  <img align="center" alt="Looker" height="30" width="40" src="https://cdn.simpleicons.org/looker/4285F4">
-</div>
-<br clear="all">
